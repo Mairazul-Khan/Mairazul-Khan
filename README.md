@@ -39,9 +39,7 @@ I'm Mairazul Khan, a DevOps enthusiast passionate about bridging the gap between
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ---
-### Let's Collaborate!
-
-⚙️ Let’s make work smarter and simpler!
+### ⚙️ Let’s make work smarter and simpler!
 
 - DevOps best practices
 - Cloud architecture challenges
