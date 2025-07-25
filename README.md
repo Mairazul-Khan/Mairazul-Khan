@@ -1,6 +1,6 @@
 ## Hi there 👋
+I'm Mairazul Khan, a DevOps enthusiast passionate about bridging the gap between development and operational teams. I focus on creating systems that fix themselves and improving the deployment process so code gets released faster and with fewer errors.
 
-I'm Mairazul a DevOps enthusiast Actively bridging the gap between development dreams and operational reality. Passionate about building self-healing infrastructure and optimizing CI/CD pipelines for faster, safer deployments. Letâ€™s automate everything!
 
 ### OS & Networking
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -41,7 +41,8 @@ I'm Mairazul a DevOps enthusiast Actively bridging the gap between development d
 ---
 ### Let's Collaborate!
 
-I'm always excited to discuss:
+⚙️ Let’s make work smarter and simpler!
+
 - DevOps best practices
 - Cloud architecture challenges
 - Automation opportunities
