@@ -3,7 +3,7 @@ I'm Mairazul Khan, a DevOps enthusiast passionate about bridging the gap between
 
 <div align="center">
   <h2 align="center"> Portfolio Website ⚡️</h2>
-  <a href="https://mairazul-khan.github.io/"><strong><h3>🌐 Live Demo</strong></h3></a>
+ <h2> <a href="https://mairazul-khan.github.io/"><strong>🌐 Live Demo</strong></a></h2>
 
 </div>
 
