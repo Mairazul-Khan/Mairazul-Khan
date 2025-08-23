@@ -3,10 +3,9 @@ I'm Mairazul Khan, a DevOps enthusiast passionate about bridging the gap between
 
 <div align="center">
   <h2 align="center"> Portfolio Website ⚡️</h2>
- <h2> <a href="https://mairazul-khan.github.io/"><strong>🌐 Live Demo</strong></a></h2>
+ <h3> <a href="https://mairazul-khan.github.io/"><strong>🌐 Live Demo</strong></a></h3>
 
 </div>
-
 
 ### OS & Networking
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
